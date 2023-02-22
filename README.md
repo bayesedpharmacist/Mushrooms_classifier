@@ -32,3 +32,5 @@ https://drive.google.com/file/d/16aHqIipZoYw343Rz6xNV1kiblwHvls76/view?usp=shari
 ### Ongoing work and future perspectives
 Currently, I am working on improving the model by adding custom layers to force hierarchical classification, i.e. first 
 classifying the family and then the species. 
+
+PS. The code in this repository, naturally cannot be executed without the training dataset. 
